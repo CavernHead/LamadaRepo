@@ -1,2 +1,2 @@
 # LamadaRepo
-small tests really anything repo is also there mainly for training
+small tests really anything, this repo is also there mainly for training.
